@@ -1,1 +1,2 @@
 # priceSimulator
+simple price simulator
